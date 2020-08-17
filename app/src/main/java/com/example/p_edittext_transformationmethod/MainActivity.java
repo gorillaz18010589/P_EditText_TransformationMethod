@@ -1,5 +1,5 @@
 package com.example.p_edittext_transformationmethod;
-//EditTexy 顯示密碼/隱藏功能
+//EditText 顯示密碼/隱藏功能
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
